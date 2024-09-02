@@ -1,4 +1,4 @@
-Facebook Pixel by JabJab
+Facebook Pixel by CircuitMess
 ========================
 
-Forked from [facebookarchive](https://github.com/facebookarchive/GoogleTagManager-WebTemplate-For-FacebookPixel), this version is updated to use the new ecommerce data model in the data layer for automated ecommerce tracking.
+Forked from [jabjabonlinemarketing](https://github.com/jabjabonlinemarketing/FacebookPixel-by-JabJab), this adds support for parsing more data-layer variables.
