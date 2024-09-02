@@ -530,7 +530,9 @@ const mergeObj = (obj, obj2) => {
 const parseEecObj = prod => {
   return {
     id: prod.item_id,
-    quantity: prod.quantity
+    item_price: prod.price,
+    title: prod.item_name,
+    quantity: prod.quantity || 1,
   };
 };
 
